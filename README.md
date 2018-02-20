@@ -1,10 +1,3 @@
 # Machine-learning-with-Scikit-learn
-This project is a practical example of machine learning using Ipython notebook, Pandas, Seaborn and Scikit-learn for data analysis and 
-visualization, and machine predictive machine learning.
-
-In machine learning and statistics, classification is the problem of identifying to which of a set of categories (sub-populations) 
-a new observation belongs, on the basis of a training set of data containing observations (or instances) whose category membership is 
-known.
-
-A breast cancer data public available at \url{http://archive.ics.uci.edu/ml/} is analyzed and machine learning algorithm 
-categorized either malignant or benign by the machine.
+ Machine-learning-with-Scikit-learn
+This project is a practical example of the cancer cells physical attribute (e.g., shape, area, etc) rather than a genomic characterization to use machine learning to predict the status of a breast cancer (either its benign not more likely not aggressive and metastasize distant organ from the breast or malignant that are more aggressive and easily disseminate to distance organ ) . For the project, I used Jupyter notebook, Pandas, Seaborn and Scikit-learn for data analysis and visualization, and prediction with support vector machine model. The data available at UCI machine learning repository at http://archive.ics.uci.edu/ml/.
