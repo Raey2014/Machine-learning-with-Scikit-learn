@@ -10,4 +10,4 @@ This is a practical example of machine learning on cancer cells physical attribu
 
 ## Data
 
-The data available at **UCI machine learning repository** at [here](http://archive.ics.uci.edu/ml/).
+The data available at [**UCI machine learning repository**](http://archive.ics.uci.edu/ml/).
