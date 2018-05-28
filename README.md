@@ -4,9 +4,9 @@ This is a practical example of machine learning on cancer cells physical attribu
 
 #### For this project, I used _Jupyter notebook_, 
 
-* Pandas, 
-* Seaborn and 
-* Scikit-learn for data cleaning and visualizations, and support ** vector machine model** prediction. 
+* Pandas for data cleaning and processing
+* Seaborn for visualizations
+* Scikit-learn for support **vector machine model** prediction. 
 
 ## Data
 
